@@ -7,7 +7,7 @@
 
     <constant name="struts.devMode" value="true" />
 
-    <package name="2222" extends="struts-default">
+    <package name="2111111222" extends="struts-default">
         <action name="index">
             <result>/index.jsp</result>
         </action>
